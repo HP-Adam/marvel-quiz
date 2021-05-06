@@ -5,6 +5,6 @@ After every answer a fun, unique gif will appear!
 
 ![Marvel Quiz](./assets/css/screenshot.png)
 
-https://ska246801.github.io/Marvel-Quiz-Project-1/
+https://hp-adam.github.io/marvel-quiz/
 
-https://github.com/SKA246801/Marvel-Quiz-Project-1
+https://github.com/HP-Adam/marvel-quiz
